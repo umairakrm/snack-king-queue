@@ -8,7 +8,7 @@ This is a queue management system for the Snack King Food Center, designed to ef
 - Getting Started
 - Usage
 - Task 1: Arrays Version
-- Task 2: Classes Version(On class-version branch)
+- Task 2: Classes Version
 - Task 3: Waiting Queue
 
 ## Features
